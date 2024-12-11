@@ -19,6 +19,7 @@
 #  fk_rails_...  (tag_id => tags.id)
 #
 
+
 class BoardTagRelation < ApplicationRecord
   belongs_to :board
   belongs_to :tag

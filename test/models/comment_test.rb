@@ -18,6 +18,7 @@
 #  fk_rails_...  (board_id => boards.id)
 #
 
+
 require 'test_helper'
 
 class CommentTest < ActiveSupport::TestCase

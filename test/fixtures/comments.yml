@@ -18,6 +18,7 @@
 #  fk_rails_...  (board_id => boards.id)
 #
 
+
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:

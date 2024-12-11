@@ -14,6 +14,7 @@
 #  index_users_on_name  (name) UNIQUE
 #
 
+
 require 'test_helper'
 
 class UserTest < ActiveSupport::TestCase

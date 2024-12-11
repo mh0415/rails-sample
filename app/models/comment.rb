@@ -18,6 +18,7 @@
 #  fk_rails_...  (board_id => boards.id)
 #
 
+
 class Comment < ApplicationRecord
   belongs_to :board
 

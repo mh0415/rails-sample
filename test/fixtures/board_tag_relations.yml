@@ -19,6 +19,7 @@
 #  fk_rails_...  (tag_id => tags.id)
 #
 
+
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:

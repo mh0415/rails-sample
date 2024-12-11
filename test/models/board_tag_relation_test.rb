@@ -19,6 +19,7 @@
 #  fk_rails_...  (tag_id => tags.id)
 #
 
+
 require 'test_helper'
 
 class BoardTagRelationTest < ActiveSupport::TestCase
